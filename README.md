@@ -1,5 +1,12 @@
 ## Obsidian Footnotes Plugin
 
+## Installation
+
+- `npm run build`
+- copy `main.js`, `manifest.json`
+
+## Overview
+
 This hotkey lets you:
 
 - Insert a new footnote marker (e.g. `[^1]`) with auto-incremented index in your text 
